@@ -5,6 +5,7 @@
   "scripts": {
     "lint": "eslint .",
     "start": "node .",
+    "test": "echo no tests",
     "posttest": "npm run lint && nsp check"
   },
   "dependencies": {
